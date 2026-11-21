@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/app.js",
+    "build": "echo 'No build required for node express'",
     "start": "node src/app.js"
   },
   "dependencies": {
